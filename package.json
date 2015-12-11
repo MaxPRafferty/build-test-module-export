@@ -5,7 +5,7 @@
   "scripts": {
     "prepublish": "./create.sh"
   },
-  "main": "build.js",
+  "main": "build/build.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
