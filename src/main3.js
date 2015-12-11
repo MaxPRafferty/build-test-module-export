@@ -1,7 +1,7 @@
 define(function(){
     return {
         game: function () {
-            alert('HORK HORK HORK');
+            alert('BORK BORK GORK');
         }
     }
 });
