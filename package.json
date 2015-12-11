@@ -1,0 +1,19 @@
+{
+  "name": "build-test-module-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxPRafferty/build-test-module-export.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxPRafferty/build-test-module-export/issues"
+  },
+  "homepage": "https://github.com/MaxPRafferty/build-test-module-export#readme"
+}
